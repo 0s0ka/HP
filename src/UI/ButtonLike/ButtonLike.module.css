@@ -1,0 +1,11 @@
+.btn_like {
+  position: absolute;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.btn_img {
+  width: 48px;
+  height: 48px;
+}

@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  height: 100vh;
+}
+
+body {
+  height: 100vh;
+  padding-top: 50px;
+  background-color: black;
+  background: no-repeat center/cover url("./assets/hogwarts.jpg");
+  backdrop-filter: blur(10px);
+  cursor: url("./assets/icons/magic-wand.png"), pointer;
+  overflow: hidden;
+}

@@ -1,0 +1,23 @@
+.header_wr {
+  padding-bottom: 48px;
+  padding-top: 24px;
+}
+
+.header_main {
+  color: #000;
+  font-family: Inter;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -1.28px;
+}
+.header_fav {
+  font-size: 52px;
+}
+.header_main_descr {
+  color: #000;
+  font-family: Inter;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 36px;
+}

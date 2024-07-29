@@ -1,0 +1,7 @@
+.audio {
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    opacity: 50%;
+}

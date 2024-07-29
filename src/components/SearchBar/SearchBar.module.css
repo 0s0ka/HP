@@ -1,0 +1,10 @@
+.searchbar_wr {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+}
+
+.input_wr {
+  display: flex;
+  flex-direction: column;
+}

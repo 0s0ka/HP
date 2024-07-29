@@ -1,0 +1,19 @@
+.content {
+  background-color: #f5f5f5;
+  box-shadow: 0px 8px 35px 0px rgba(0, 0, 0, 0.16);
+  width: 768px;
+  margin: 0 auto;
+  padding: 40px 40px;
+  border-radius: 20px;
+  position: relative;
+}
+
+.back_to_all {
+  color: #3f444a;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-decoration-line: underline;
+  cursor: pointer;
+}
